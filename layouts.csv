@@ -1,0 +1,85 @@
+layout_key,room_type,plan_id,name,summary,fixtures
+F001,full_bath,A,Classic full bath,Tub + toilet + 18″ vanity,60″ alcove tub with shower + Elongated toilet + 18″ × 21″ vanity
+F002,full_bath,B,Walk-in shower,Walk-in shower + 18″ vanity,"30″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 18″ × 21″ vanity"
+F003,full_bath,C,Corner shower,36″ corner shower + 18″ vanity,36″ × 36″ corner shower + Elongated toilet + 18″ × 21″ vanity
+F004,full_bath,D,Tub on the long wall,"Tub on the long wall, toilet facing it",60″ tub along the back wall + Toilet on the side wall + 30″ vanity beside the tub
+F005,full_bath,A,Classic full bath,Tub + toilet + 24″ vanity,60″ alcove tub with shower + Elongated toilet + 24″ × 21″ vanity
+F006,full_bath,B,Walk-in shower,Walk-in shower + 24″ vanity,"30″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 24″ × 21″ vanity"
+F007,full_bath,A,Classic full bath,Tub + toilet + 30″ vanity,60″ alcove tub with shower + Elongated toilet + 30″ × 21″ vanity
+F008,full_bath,B,Walk-in shower,Walk-in shower + 30″ vanity,"30″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 30″ × 21″ vanity"
+F009,full_bath,C,Corner shower,36″ corner shower + 24″ vanity,36″ × 36″ corner shower + Elongated toilet + 24″ × 21″ vanity
+F010,full_bath,A,Classic full bath,Tub + toilet + 36″ vanity,60″ alcove tub with shower + Elongated toilet + 36″ × 21″ vanity
+F011,full_bath,B,Walk-in shower,Walk-in shower + 36″ vanity,"30″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 36″ × 21″ vanity"
+F012,full_bath,C,Corner shower,36″ corner shower + 30″ vanity,36″ × 36″ corner shower + Elongated toilet + 30″ × 21″ vanity
+F013,full_bath,A,Classic full bath,Tub + toilet + 42″ vanity,60″ alcove tub with shower + Elongated toilet + 42″ × 21″ vanity
+F014,full_bath,B,Walk-in shower,Walk-in shower + 42″ vanity,"30″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 42″ × 21″ vanity"
+F015,full_bath,C,Corner shower,36″ corner shower + 36″ vanity,36″ × 36″ corner shower + Elongated toilet + 36″ × 21″ vanity
+F016,full_bath,A,Classic full bath,Tub + toilet + 48″ vanity,60″ alcove tub with shower + Elongated toilet + 48″ × 21″ vanity
+F017,full_bath,B,Walk-in shower,Walk-in shower + 48″ vanity,"30″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 48″ × 21″ vanity"
+F018,full_bath,C,Corner shower,36″ corner shower + 42″ vanity,36″ × 36″ corner shower + Elongated toilet + 42″ × 21″ vanity
+F019,full_bath,C,Corner shower,36″ corner shower + 48″ vanity,36″ × 36″ corner shower + Elongated toilet + 48″ × 21″ vanity
+F020,full_bath,A,Classic full bath,Tub + toilet + 60″ vanity,60″ alcove tub with shower + Elongated toilet + 60″ × 21″ vanity (double sink)
+F021,full_bath,B,Walk-in shower,Walk-in shower + 60″ vanity,"30″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 60″ × 21″ vanity (double sink)"
+F022,full_bath,A,Classic full bath,Tub + toilet + 18″ vanity,66″ alcove tub with shower + Elongated toilet + 18″ × 21″ vanity
+F023,full_bath,A,Classic full bath,Tub + toilet + 24″ vanity,66″ alcove tub with shower + Elongated toilet + 24″ × 21″ vanity
+F024,full_bath,A,Classic full bath,Tub + toilet + 30″ vanity,66″ alcove tub with shower + Elongated toilet + 30″ × 21″ vanity
+F025,full_bath,A,Classic full bath,Tub + toilet + 36″ vanity,66″ alcove tub with shower + Elongated toilet + 36″ × 21″ vanity
+F026,full_bath,A,Classic full bath,Tub + toilet + 42″ vanity,66″ alcove tub with shower + Elongated toilet + 42″ × 21″ vanity
+F027,full_bath,A,Classic full bath,Tub + toilet + 48″ vanity,66″ alcove tub with shower + Elongated toilet + 48″ × 21″ vanity
+F028,full_bath,A,Classic full bath,Tub + toilet + 60″ vanity,66″ alcove tub with shower + Elongated toilet + 60″ × 21″ vanity (double sink)
+F029,full_bath,A,Classic full bath,Tub + toilet + 18″ vanity,72″ alcove tub with shower + Elongated toilet + 18″ × 21″ vanity
+F030,full_bath,B,Walk-in shower,Walk-in shower + 18″ vanity,"30″ × 72″ walk-in shower, fixed glass panel + Elongated toilet + 18″ × 21″ vanity"
+F031,full_bath,A,Classic full bath,Tub + toilet + 24″ vanity,72″ alcove tub with shower + Elongated toilet + 24″ × 21″ vanity
+F032,full_bath,B,Walk-in shower,Walk-in shower + 24″ vanity,"30″ × 72″ walk-in shower, fixed glass panel + Elongated toilet + 24″ × 21″ vanity"
+F033,full_bath,A,Classic full bath,Tub + toilet + 30″ vanity,72″ alcove tub with shower + Elongated toilet + 30″ × 21″ vanity
+F034,full_bath,B,Walk-in shower,Walk-in shower + 30″ vanity,"30″ × 72″ walk-in shower, fixed glass panel + Elongated toilet + 30″ × 21″ vanity"
+F035,full_bath,A,Classic full bath,Tub + toilet + 36″ vanity,72″ alcove tub with shower + Elongated toilet + 36″ × 21″ vanity
+F036,full_bath,B,Walk-in shower,Walk-in shower + 36″ vanity,"30″ × 72″ walk-in shower, fixed glass panel + Elongated toilet + 36″ × 21″ vanity"
+F037,full_bath,A,Classic full bath,Tub + toilet + 42″ vanity,72″ alcove tub with shower + Elongated toilet + 42″ × 21″ vanity
+F038,full_bath,B,Walk-in shower,Walk-in shower + 42″ vanity,"30″ × 72″ walk-in shower, fixed glass panel + Elongated toilet + 42″ × 21″ vanity"
+F039,full_bath,A,Classic full bath,Tub + toilet + 48″ vanity,72″ alcove tub with shower + Elongated toilet + 48″ × 21″ vanity
+F040,full_bath,B,Walk-in shower,Walk-in shower + 48″ vanity,"30″ × 72″ walk-in shower, fixed glass panel + Elongated toilet + 48″ × 21″ vanity"
+F041,full_bath,A,Classic full bath,Tub + toilet + 60″ vanity,72″ alcove tub with shower + Elongated toilet + 60″ × 21″ vanity (double sink)
+F042,full_bath,B,Walk-in shower,Walk-in shower + 60″ vanity,"30″ × 72″ walk-in shower, fixed glass panel + Elongated toilet + 60″ × 21″ vanity (double sink)"
+F043,full_bath,A,Tub + vanity,72″ tub + 18″ vanity,72″ alcove tub with shower + Elongated toilet + 18″ × 21″ vanity
+F044,full_bath,B,Walk-in shower,36″×60″ walk-in shower + 18″ vanity,"36″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 18″ × 21″ vanity"
+F045,full_bath,C,Separate tub and shower,60″ tub + 36″ shower + 18″ vanity,60″ tub on the back wall + 36″ × 36″ shower in the corner + Toilet on the side wall + 18″ × 21″ vanity by the door
+F046,full_bath,D,Private toilet room,Toilet room + 72″ tub + 18″ vanity,72″ alcove tub with shower + 36″ × 60″ toilet room with a 24″ pocket door + 18″ × 21″ vanity
+F047,full_bath,A,Tub + vanity,72″ tub + 24″ vanity,72″ alcove tub with shower + Elongated toilet + 24″ × 21″ vanity
+F048,full_bath,A,Tub + vanity,72″ tub + 30″ vanity,72″ alcove tub with shower + Elongated toilet + 30″ × 21″ vanity
+F049,full_bath,B,Walk-in shower,36″×60″ walk-in shower + 24″ vanity,"36″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 24″ × 21″ vanity"
+F050,full_bath,D,Private toilet room,Toilet room + 72″ tub + 24″ vanity,72″ alcove tub with shower + 36″ × 60″ toilet room with a 24″ pocket door + 24″ × 21″ vanity
+F051,full_bath,B,Walk-in shower,36″×60″ walk-in shower + 30″ vanity,"36″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 30″ × 21″ vanity"
+F052,full_bath,D,Private toilet room,Toilet room + 72″ tub + 30″ vanity,72″ alcove tub with shower + 36″ × 60″ toilet room with a 24″ pocket door + 30″ × 21″ vanity
+F053,full_bath,A,Tub + vanity,72″ tub + 36″ vanity,72″ alcove tub with shower + Elongated toilet + 36″ × 21″ vanity
+F054,full_bath,C,Separate tub and shower,66″ tub + 36″ shower + 18″ vanity,66″ tub on the back wall + 36″ × 36″ shower in the corner + Toilet on the side wall + 18″ × 21″ vanity by the door
+F055,full_bath,D,Private toilet room,Toilet room + 72″ tub + 36″ vanity,72″ alcove tub with shower + 36″ × 60″ toilet room with a 24″ pocket door + 36″ × 21″ vanity
+F056,full_bath,C,Separate tub and shower,66″ tub + 36″ shower + 24″ vanity,66″ tub on the back wall + 36″ × 36″ shower in the corner + Toilet on the side wall + 24″ × 21″ vanity by the door
+F057,full_bath,A,Tub + vanity,72″ tub + 42″ vanity,72″ alcove tub with shower + Elongated toilet + 42″ × 21″ vanity
+F058,full_bath,B,Walk-in shower,36″×60″ walk-in shower + 36″ vanity,"36″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 36″ × 21″ vanity"
+F059,full_bath,C,Separate tub and shower,60″ tub + 48″ shower + 24″ vanity,60″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 24″ × 21″ vanity by the door
+F060,full_bath,D,Private toilet room,Toilet room + 72″ tub + 42″ vanity,72″ alcove tub with shower + 36″ × 60″ toilet room with a 24″ pocket door + 42″ × 21″ vanity
+F061,full_bath,C,Separate tub and shower,60″ tub + 48″ shower + 30″ vanity,60″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 30″ × 21″ vanity by the door
+F062,full_bath,A,Tub + vanity,72″ tub + 48″ vanity,72″ alcove tub with shower + Elongated toilet + 48″ × 21″ vanity
+F063,full_bath,B,Walk-in shower,36″×60″ walk-in shower + 42″ vanity,"36″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 42″ × 21″ vanity"
+F064,full_bath,C,Separate tub and shower,66″ tub + 48″ shower + 30″ vanity,66″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 30″ × 21″ vanity by the door
+F065,full_bath,D,Private toilet room,Toilet room + 72″ tub + 48″ vanity,72″ alcove tub with shower + 36″ × 60″ toilet room with a 24″ pocket door + 48″ × 21″ vanity
+F066,full_bath,C,Separate tub and shower,66″ tub + 48″ shower + 36″ vanity,66″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 36″ × 21″ vanity by the door
+F067,full_bath,B,Walk-in shower,36″×60″ walk-in shower + 48″ vanity,"36″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 48″ × 21″ vanity"
+F068,full_bath,C,Separate tub and shower,72″ tub + 48″ shower + 36″ vanity,72″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 36″ × 21″ vanity by the door
+F069,full_bath,C,Separate tub and shower,72″ tub + 48″ shower + 42″ vanity,72″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 42″ × 21″ vanity by the door
+F070,full_bath,A,Tub + double vanity,72″ tub + 60″ double vanity,72″ alcove tub with shower + Elongated toilet + 60″ × 21″ double vanity
+F071,full_bath,D,Private toilet room,Toilet room + 72″ tub + 60″ double vanity,72″ alcove tub with shower + 36″ × 60″ toilet room with a 24″ pocket door + 60″ × 21″ double vanity
+F072,full_bath,C,Separate tub and shower,72″ tub + 48″ shower + 48″ vanity,72″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 48″ × 21″ vanity by the door
+F073,full_bath,B,Walk-in shower,36″×60″ walk-in shower + 60″ double vanity,"36″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 60″ × 21″ double vanity"
+F074,full_bath,A,Tub + double vanity,72″ tub + 72″ double vanity,72″ alcove tub with shower + Elongated toilet + 72″ × 21″ double vanity
+F075,full_bath,D,Private toilet room,Toilet room + 72″ tub + 72″ double vanity,72″ alcove tub with shower + 36″ × 60″ toilet room with a 24″ pocket door + 72″ × 21″ double vanity
+F076,full_bath,C,Separate tub and shower,72″ tub + 48″ shower + 60″ double vanity,72″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 60″ × 21″ double vanity by the door
+F077,full_bath,B,Walk-in shower,36″×60″ walk-in shower + 72″ double vanity,"36″ × 60″ walk-in shower, fixed glass panel + Elongated toilet + 72″ × 21″ double vanity"
+F078,full_bath,C,Separate tub and shower,72″ tub + 48″ shower + 72″ double vanity,72″ tub on the back wall + 48″ × 36″ shower in the corner + Toilet on the side wall + 72″ × 21″ double vanity by the door
+H079,half_bath,A,Side by side,Toilet + wall-hung sink on one wall,Round-front toilet (26″ deep) + 18″ × 14″ wall-hung sink
+H080,half_bath,B,Toilet on the end wall,"Toilet faces the room, sink on the side wall",Round-front toilet (26″ deep) on the end wall + 18″ × 14″ wall-hung sink on the side wall
+H081,half_bath,C,Facing ends,"Toilet and sink at opposite ends, door between",Round-front toilet (26″ deep) on one end wall + 18″ × 14″ wall-hung sink on the other end wall
+H082,half_bath,D,Vanity with storage,Toilet + 24″ vanity on one wall,Round-front toilet (26″ deep) + 24″ × 18″ vanity with storage
+H083,half_bath,D,Vanity with storage,Toilet + 30″ vanity on one wall,Round-front toilet (26″ deep) + 30″ × 18″ vanity with storage
+H084,half_bath,D,Vanity with storage,Toilet + 36″ vanity on one wall,Round-front toilet (26″ deep) + 36″ × 18″ vanity with storage

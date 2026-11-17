@@ -1,0 +1,42 @@
+{
+  "generated_by": "scripts/generate.ts",
+  "engine": "https://fitstheroom.com layout engine (src/engine/)",
+  "engine_commit": "67512729bde5e2dd13848ac317d25dbba4fc1ef7",
+  "room_limits_in": {
+    "full_bath": {
+      "W": [
+        72,
+        168
+      ],
+      "D": [
+        42,
+        144
+      ]
+    },
+    "half_bath": {
+      "W": [
+        48,
+        96
+      ],
+      "D": [
+        36,
+        72
+      ]
+    }
+  },
+  "grid_in": 1,
+  "doors": [
+    "swing_in",
+    "swing_out",
+    "pocket"
+  ],
+  "room_sizes": {
+    "full_bath": 7363,
+    "half_bath": 1513
+  },
+  "rows": {
+    "bathroom-size-code-check.csv": 106512,
+    "bathroom-size-summary.csv": 26628,
+    "layouts.csv": 84
+  }
+}

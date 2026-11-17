@@ -1,0 +1,6 @@
+rule,inches,description,source
+toilet_centerline_to_side,15,"Toilet centerline to a side wall, tub, shower or vanity",IRC R307.1 (Figure R307.1)
+clear_floor_front_of_toilet_and_lavatory,21,Clear floor in front of the toilet and the lavatory/vanity,IRC R307.1 (Figure R307.1)
+clear_floor_at_shower_entry,24,Clear floor in front of a shower opening,IRC R307.1 (Figure R307.1)
+shower_opening_width,22,Minimum unobstructed shower opening width,IRC P2708.1
+shower_min_interior_dimension,30,Minimum interior dimension of a shower (30 x 30),IRC P2708.1

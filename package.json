@@ -1,0 +1,6 @@
+{
+  "name": "bathroom-layout-code-clearances",
+  "private": true,
+  "type": "module",
+  "description": "Generator for the dataset; run with tsx from a FitsTheRoom checkout"
+}

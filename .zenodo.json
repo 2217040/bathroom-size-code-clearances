@@ -1,0 +1,31 @@
+{
+  "upload_type": "dataset",
+  "title": "Bathroom Size Code-Clearance Dataset",
+  "creators": [
+    {
+      "name": "FitsTheRoom"
+    }
+  ],
+  "description": "<p>Every full bathroom and half bathroom size, inch by inch, checked against the International Residential Code (IRC) clearance minimums (R307.1, P2708.1): which standard layouts fit, which do not, and the exact check each failing layout breaks. 26,628 room-size &times; door combinations (8,876 room sizes &times; in-swing, out-swing and pocket doors) and 106,512 layout checks across 84 distinct layouts.</p><p>Two findings: a full bath fits at least one standard layout if and only if the short wall is at least 5 ft and the long wall at least 6 ft 6 in (smallest: 32.5 sq ft); and for half baths the door decides it &mdash; re-hanging an in-swing door to swing out rescues 55% of failing sizes and shrinks the smallest workable half bath from 17.8 to 15.3 sq ft, while a pocket door rescues far fewer.</p><p>Every row is produced by the layout engine of <a href=\"https://fitstheroom.com/\">FitsTheRoom</a>, which draws these same layouts to scale for any room, so the data matches the plans on the site exactly. &quot;Fails&quot; means none of the four standard layouts fits, not that no bathroom is possible; local codes may be stricter than the IRC. Released under CC0 1.0.</p>",
+  "license": "cc-zero",
+  "access_right": "open",
+  "keywords": [
+    "bathroom",
+    "bathroom layout",
+    "building code",
+    "International Residential Code",
+    "IRC R307",
+    "clearances",
+    "half bath",
+    "floor plan",
+    "home renovation",
+    "open data"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://fitstheroom.com/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

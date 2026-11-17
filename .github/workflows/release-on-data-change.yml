@@ -1,0 +1,78 @@
+name: Release on data change
+
+# When the data files are regenerated and pushed to main, publish a GitHub release.
+# Zenodo only mints a new DOI version when a release is published, so this keeps the
+# archived copy in step. The concept DOI in the README always resolves to the newest one.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'bathroom-size-summary.csv'
+      - 'bathroom-size-code-check.csv'
+      - 'layouts.csv'
+      - 'clearances.csv'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: release-on-data-change
+  cancel-in-progress: false
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Pick a tag that is not taken yet
+        id: tag
+        run: |
+          set -euo pipefail
+          base="v$(date -u +%Y.%m.%d)"
+          tag="$base"
+          n=1
+          while git rev-parse -q --verify "refs/tags/$tag" >/dev/null; do
+            n=$((n + 1))
+            tag="$base.$n"
+            if [ "$n" -gt 20 ]; then
+              echo "More than 20 releases today; something is wrong." >&2
+              exit 1
+            fi
+          done
+          echo "tag=$tag" >> "$GITHUB_OUTPUT"
+
+      - name: Count what is in the data
+        id: counts
+        run: |
+          set -euo pipefail
+          combos=$(($(wc -l < bathroom-size-summary.csv) - 1))
+          checks=$(($(wc -l < bathroom-size-code-check.csv) - 1))
+          echo "combos=$combos" >> "$GITHUB_OUTPUT"
+          echo "checks=$checks" >> "$GITHUB_OUTPUT"
+
+      - name: Publish the release
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          TAG: ${{ steps.tag.outputs.tag }}
+          COMBOS: ${{ steps.counts.outputs.combos }}
+          CHECKS: ${{ steps.counts.outputs.checks }}
+        run: |
+          set -euo pipefail
+          notes=$(cat <<EOF
+          Regenerated data: $COMBOS room-size and door combinations, $CHECKS layout checks.
+
+          The engine commit this release was built from is in \`metadata.json\`.
+
+          Released under CC0 1.0. Zenodo archives this release and gives it its own
+          DOI; the DOI in the README always resolves to the newest version.
+          EOF
+          )
+          gh release create "$TAG" \
+            --title "$TAG — regenerated data" \
+            --notes "$notes" \
+            --target "$GITHUB_SHA"
