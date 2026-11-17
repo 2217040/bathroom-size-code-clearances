@@ -1,5 +1,8 @@
 # Bathroom Size Code-Clearance Dataset
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24319105.svg)](https://doi.org/10.5281/zenodo.24319105)
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 Every full bathroom and half bathroom size, inch by inch, checked against the
 International Residential Code (IRC) clearance minimums: which standard layouts
 fit, which do not, and the exact check each failing layout breaks.
@@ -94,8 +97,11 @@ reproduced.
 
 ## Citing
 
+Every release is archived on Zenodo with a DOI. The DOI below resolves to the
+newest version; each version also has its own DOI on the Zenodo record page.
+
 > FitsTheRoom, *Bathroom Size Code-Clearance Dataset* (2026).
-> https://github.com/2217040/bathroom-size-code-clearances
+> Zenodo. https://doi.org/10.5281/zenodo.24319105
 
 A link to [fitstheroom.com](https://fitstheroom.com/) is appreciated, though CC0
 means none is required.
