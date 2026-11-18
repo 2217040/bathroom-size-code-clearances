@@ -16,6 +16,8 @@ fit, which do not, and the exact check each failing layout breaks.
 Built and maintained by [FitsTheRoom](https://fitstheroom.com/), which draws
 these same layouts to scale for any room. Every row is produced by the site's own
 layout engine, so it matches the plan the site draws for that room exactly.
+The data is regenerated every week: when the site's engine changes, a new version
+appears here, as a GitHub release and as a new version on Zenodo.
 
 ## What the data shows
 
